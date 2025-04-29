@@ -1,1 +1,3 @@
 - [Hello World Notebook (Colab)](https://colab.research.google.com/drive/1DxDPYO0Cao9OFfTMng0Wp-c5lzhfYi6D?usp=sharing)
+- [fizzbuzz_1 Notebook (Colab)](https://drive.google.com/file/d/14GQn2hEjZk25hKJDxDVhXXFPb5s1BIqs/view?usp=sharing)
+- 
